@@ -81,4 +81,5 @@ def main():
     print("Json has been written properly")
 
 
-main()
+if __name__ == "__main__":
+    main()
