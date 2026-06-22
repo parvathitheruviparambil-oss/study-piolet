@@ -1,0 +1,570 @@
+{
+    "timetable": [
+        {
+            "day": 1,
+            "date": "2026-06-22",
+            "slots": [
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Algebra"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Trigonometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Coordinate Geometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Calculus Basics"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Laws of Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Work, Energy and Power"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Electricity"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Atomic Structure"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Chemical Bonding"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["States of Matter"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Organic Chemistry Basics"],
+                    "notes": ""
+                }
+            ],
+            "total_study_minutes": 300
+        },
+        {
+            "day": 2,
+            "date": "2026-06-23",
+            "slots": [
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Algebra"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Trigonometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Coordinate Geometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Calculus Basics"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Laws of Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Work, Energy and Power"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Electricity"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Atomic Structure"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Chemical Bonding"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["States of Matter"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Organic Chemistry Basics"],
+                    "notes": ""
+                }
+            ],
+            "total_study_minutes": 300
+        },
+        {
+            "day": 3,
+            "date": "2026-06-24",
+            "slots": [
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Algebra"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Trigonometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Coordinate Geometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Calculus Basics"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Laws of Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Work, Energy and Power"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Electricity"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Atomic Structure"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Chemical Bonding"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["States of Matter"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Organic Chemistry Basics"],
+                    "notes": ""
+                }
+            ],
+            "total_study_minutes": 300
+        },
+        {
+            "day": 4,
+            "date": "2026-06-25",
+            "slots": [
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Algebra"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Trigonometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Coordinate Geometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Calculus Basics"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Laws of Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Work, Energy and Power"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Electricity"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Atomic Structure"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Chemical Bonding"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["States of Matter"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Organic Chemistry Basics"],
+                    "notes": ""
+                }
+            ],
+            "total_study_minutes": 300
+        },
+        {
+            "day": 5,
+            "date": "2026-06-26",
+            "slots": [
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Algebra"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Trigonometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Coordinate Geometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Calculus Basics"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Laws of Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Work, Energy and Power"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Electricity"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Atomic Structure"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Chemical Bonding"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["States of Matter"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Organic Chemistry Basics"],
+                    "notes": ""
+                }
+            ],
+            "total_study_minutes": 300
+        },
+        {
+            "day": 6,
+            "date": "2026-06-27",
+            "slots": [
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Algebra"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Trigonometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Coordinate Geometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Calculus Basics"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Laws of Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Work, Energy and Power"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Electricity"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Atomic Structure"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Chemical Bonding"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["States of Matter"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Organic Chemistry Basics"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 30,
+                    "chapters_to_cover": ["Algebra", "Trigonometry", "Coordinate Geometry", "Calculus Basics"],
+                    "notes": "Revision"
+                }
+            ],
+            "total_study_minutes": 330
+        },
+        {
+            "day": 7,
+            "date": "2026-06-28",
+            "slots": [
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Algebra"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Trigonometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Coordinate Geometry"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Calculus Basics"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Laws of Motion"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Work, Energy and Power"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Physics",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Electricity"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Atomic Structure"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Chemical Bonding"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["States of Matter"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Chemistry",
+                    "duration_minutes": 25,
+                    "chapters_to_cover": ["Organic Chemistry Basics"],
+                    "notes": ""
+                },
+                {
+                    "subject": "Mathematics",
+                    "duration_minutes": 30,
+                    "chapters_to_cover": ["Algebra", "Trigonometry", "Coordinate Geometry", "Calculus Basics"],
+                    "notes": "Revision"
+                }
+            ],
+            "total_study_minutes": 330
+        }
+    ],
+    "weekly_summary": "You have studied all subjects with equal priority and have included a 30-minute revision slot for Mathematics on the weekend."
+}
