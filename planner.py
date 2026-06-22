@@ -214,4 +214,5 @@ def main():
     print("saved to timetable.json")
 
 
-main()
+if __name__ == "__main__":
+    main()
